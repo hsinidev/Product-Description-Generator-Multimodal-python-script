@@ -95,6 +95,8 @@ python -m venv .venv
 ###3️⃣ Install dependencies
 pip install customtkinter ollama
 
+pip install Pillow
+
 
 ###🚀 Running the Application
 
