@@ -120,6 +120,8 @@ sequencer_app.py
 
 Would you like me to add GitHub badges at the top (for Python version, license, repo size, and stars) to make it look even more professional like a verified open-source project?
 
+https://ai-multimodal-product-description-gen.netlify.app/
+
 
 
 
